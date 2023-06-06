@@ -1,0 +1,8 @@
+.changing-styles {
+  background-color: red;
+}
+@media only screen and (min-width: 600px) {
+  .changing-styles {
+    background-color: blue;
+  }
+}
